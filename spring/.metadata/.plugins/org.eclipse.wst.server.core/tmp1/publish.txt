@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Tue Mar 20 11:04:09 BDT 2018
+org.eclipse.jst.jee.server\:school=D\:\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\school
+org.eclipse.jst.jee.server\:/binary\:D\:\\sts-bundle\\spring\\school\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.4.RELEASE.jar=D\:\\sts-bundle\\pivotal-tc-server-developer-3.2.8.RELEASE\\base-instance\\wtpwebapps\\school\\WEB-INF\\lib\\spring-web-5.0.4.RELEASE.jar

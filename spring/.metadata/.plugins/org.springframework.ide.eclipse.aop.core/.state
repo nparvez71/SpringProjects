@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="webex"/>
+<aop-project name="MVCproject"/>
+<aop-project name="SecurityExample"/>
+<aop-project name="SpringMvcExp01"/>
+<aop-project name="SpringwithBootJdbc"/>
+<aop-project name="webexmple02"/>
+<aop-project name="JDBCExample-shamim1"/>
+</aop-reference-model>

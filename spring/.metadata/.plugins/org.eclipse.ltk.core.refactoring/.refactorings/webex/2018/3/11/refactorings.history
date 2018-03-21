@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MainController.java&apos; to &apos;webex/src/main/java/com.coderbd&apos;&#x0D;&#x0A;- Original project: &apos;webex&apos;&#x0D;&#x0A;- Destination element: &apos;webex/src/main/java/com.coderbd&apos;&#x0D;&#x0A;- Original element: &apos;com.coderbd.MainController.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.coderbd" element1="/src\/main\/java&lt;com.coderbd{MainController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1521006450049" units="1" version="1.0"/>
+</session>

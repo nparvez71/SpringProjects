@@ -1,0 +1,22 @@
+package com.example.demo;
+
+import java.sql.Date;
+import java.util.GregorianCalendar;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import another.PlainContact;
+
+public class Test {
+	
+	
+	public static void main(String[] args) {
+		ContactDao contactDao=new PlainContact();
+		Contact contact=new Contact();
+		contact.setFirstName("parvwez");
+		contact.setLastName("mia");
+		contact.setBirthDate(new Date((new GregorianCalendar(2001, 10, 1)).getTime().getTime()));
+		contactDao.insert(contact);
+	}
+
+}

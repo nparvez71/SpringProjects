@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Tue Mar 20 12:35:56 BDT 2018
+org.eclipse.jst.jee.server\:/binary\:D\:\\sts-bundle\\spring\\springhibernetConfig\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-4.3.7.RELEASE.jar=WEB-INF/lib/spring-web-4.3.7.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\sts-bundle\\spring\\school\\src\\main\\webapp\\WEB-INF\\lib\\spring-web-5.0.4.RELEASE.jar=WEB-INF/lib/spring-web-5.0.4.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\sts-bundle\\spring\\TaskManagerApp\\WebContent\\WEB-INF\\lib\\spring-web-4.0.0.RELEASE.jar=WEB-INF/lib/spring-web-4.0.0.RELEASE.jar

@@ -1,0 +1,11 @@
+package com.coderbd;
+
+import javax.persistence.Entity;
+
+@Entity
+@id
+public class Employee {
+	private Long id;
+	
+
+}
