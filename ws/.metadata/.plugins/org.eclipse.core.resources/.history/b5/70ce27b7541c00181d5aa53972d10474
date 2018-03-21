@@ -1,0 +1,15 @@
+package com.example.demo;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+public class TestEditor {
+	
+	@Autowired
+	private  SpellChecker spellChecker;
+	private void spellCheck() {
+		spellChecker.checkSpelling();
+		
+		
+	}
+
+}

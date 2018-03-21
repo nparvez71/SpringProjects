@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="BeanLifeCycle-exp-4"/>
+<aop-project name="springhello"/>
+<aop-project name="Spring-AutoWeriing"/>
+<aop-project name="String-Ioc-xml"/>
+<aop-project name="Spring-AutoWeriing-Annotation"/>
+<aop-project name="Spring-DI-Annotation"/>
+<aop-project name="BeanLifeCycle-exp-01"/>
+<aop-project name="BeanLifeCycle-exp-3"/>
+<aop-project name="BeanLifeCycle-exp-5"/>
+<aop-project name="Spring-DI-SetterBased-Annotationl"/>
+<aop-project name="Spring-DI-SetterBased-Xml"/>
+<aop-project name="spring"/>
+<aop-project name="SpringHelloWorld01"/>
+<aop-project name="springaoptwo"/>
+<aop-project name="ClassPathBean"/>
+<aop-project name="Spring-DI-Xml"/>
+<aop-project name="DependencyInjection"/>
+<aop-project name="Spring-ioc-Anootation"/>
+<aop-project name="BeanLifeCycle-exp-02"/>
+</aop-reference-model>
